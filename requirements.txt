@@ -1,0 +1,12 @@
+# For the backend API
+flask
+
+# For the user interface
+streamlit
+
+# To make HTTP requests from the UI to the backend
+requests
+
+# For LLM integration (using Google Gemini as an example)
+google-generativeai
+python-dotenv

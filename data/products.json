@@ -1,0 +1,1390 @@
+[
+  {
+    "product_id": "FF001",
+    "name": "Sunset Dragon Burger",
+    "category": "Burgers",
+    "description": "Spicy jackfruit patty, sriracha mayo, pickled ginger, on a brioche bun.",
+    "ingredients": [
+      "Jackfruit patty",
+      "Sriracha mayo",
+      "Pickled ginger",
+      "Brioche bun",
+      "Lettuce",
+      "Tomato"
+    ],
+    "price": 10.99,
+    "calories": 650,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Vegetarian",
+      "Vegan",
+      "Spicy"
+    ],
+    "mood_tags": [
+      "Adventurous",
+      "Flavorful",
+      "Spicy"
+    ],
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A vibrant burger with a spicy jackfruit patty, sriracha mayo, pickled ginger, and fresh lettuce on a toasted brioche bun, set against a sunset backdrop."
+  },
+  {
+    "product_id": "FF002",
+    "name": "Dragon's Breath Burger",
+    "category": "Burgers",
+    "description": "Spicy Korean BBQ pulled pork, kimchi slaw, and a fiery sriracha mayo.",
+    "ingredients": [
+      "Pulled Pork",
+      "Kimchi Slaw",
+      "Sriracha Mayo",
+      "Sesame Seed Bun",
+      "Pickles"
+    ],
+    "price": 9.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Adventurous",
+      "Savory"
+    ],
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A juicy pulled pork burger with vibrant kimchi slaw, sriracha mayo dripping down, on a toasted sesame seed bun, with a fiery, smoky background"
+  },
+  {
+    "product_id": "FF003",
+    "name": "Crimson Sunset Burger",
+    "category": "Burgers",
+    "description": "Spicy chipotle aioli, caramelized onions, and juicy grilled patty.",
+    "ingredients": [
+      "Beef patty",
+      "Chipotle aioli",
+      "Caramelized onions",
+      "Cheddar cheese",
+      "Brioche bun",
+      "Lettuce"
+    ],
+    "price": 9.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Comfort Food"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Mustard"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 4,
+    "image_prompt": "Close-up of a juicy burger with caramelized onions, cheddar cheese, and a spicy chipotle aioli, on a brioche bun, with a sunset background."
+  },
+  {
+    "product_id": "FF004",
+    "name": "Sunrise Sunset Burger",
+    "category": "Burgers",
+    "description": "Sweet and savory explosion of flavors, a true taste bud adventure!",
+    "ingredients": [
+      "Brioche bun",
+      "Spicy chipotle aioli",
+      "Grilled pineapple",
+      "Bacon",
+      "Cheddar cheese",
+      "Beef patty",
+      "Caramelized onions"
+    ],
+    "price": 10.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High in Protein"
+    ],
+    "mood_tags": [
+      "Savory",
+      "Sweet",
+      "Spicy"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "A juicy beef burger on a brioche bun with grilled pineapple, bacon, cheddar cheese, caramelized onions, and a drizzle of spicy chipotle aioli. Bright, vibrant colors, close-up shot."
+  },
+  {
+    "product_id": "FF005",
+    "name": "Sunset Sunrise Burger",
+    "category": "Burgers",
+    "description": "Sweet and savory explosion of flavors!  A taste of paradise.",
+    "ingredients": [
+      "Brioche bun",
+      "Angus beef patty",
+      "Maple-glazed bacon",
+      "Fried egg",
+      "Cheddar cheese",
+      "Caramelized onions",
+      "BBQ aioli"
+    ],
+    "price": 11.99,
+    "calories": 780,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Satisfying",
+      "Indulgent",
+      "Comfort Food"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Close-up shot of a juicy burger with a fried egg, maple-glazed bacon, cheddar cheese, and caramelized onions on a brioche bun, with a vibrant sunset background"
+  },
+  {
+    "product_id": "FF006",
+    "name": "Crimson Sunset Burger",
+    "category": "Burgers",
+    "description": "Spicy chipotle mayo, juicy patty, caramelized onions, pepper jack cheese.",
+    "ingredients": [
+      "1/4 lb Beef Patty",
+      "Chipotle Mayo",
+      "Caramelized Onions",
+      "Pepper Jack Cheese",
+      "Brioche Bun",
+      "Lettuce",
+      "Tomato"
+    ],
+    "price": 9.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Bold"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Beef"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 6,
+    "image_prompt": "A juicy beef burger on a brioche bun with melted pepper jack cheese, caramelized onions, and chipotle mayo, lettuce, and tomato; vibrant, appetizing, close-up shot."
+  },
+  {
+    "product_id": "FF007",
+    "name": "Sunset Symphony Burger",
+    "category": "Burgers",
+    "description": "A vibrant fusion of sweet and savory, a taste of the tropics.",
+    "ingredients": [
+      "Pineapple salsa",
+      "Chipotle aioli",
+      "Grilled chicken",
+      "Cheddar cheese",
+      "Brioche bun",
+      "Lettuce",
+      "Tomato"
+    ],
+    "price": 11.99,
+    "calories": 650,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High-protein"
+    ],
+    "mood_tags": [
+      "Summer vibes",
+      "Tropical escape"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "A juicy grilled chicken burger with pineapple salsa, chipotle aioli, cheddar cheese, and brioche bun, vibrant colors, summery setting"
+  },
+  {
+    "product_id": "FF008",
+    "name": "Sunset Fiesta Burger",
+    "category": "Burgers",
+    "description": "Spicy chipotle mayo, grilled pineapple, jalape\u00f1os, and juicy beef.",
+    "ingredients": [
+      "Beef patty",
+      "Chipotle mayo",
+      "Grilled pineapple",
+      "Jalape\u00f1os",
+      "Cheddar cheese",
+      "Brioche bun",
+      "Lettuce"
+    ],
+    "price": 9.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Summery"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Mustard"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 6,
+    "image_prompt": "Close-up of a juicy burger with grilled pineapple, jalape\u00f1os, and chipotle mayo, on a brioche bun, with a vibrant sunset background"
+  },
+  {
+    "product_id": "FF009",
+    "name": "Sunset Sriracha Burger",
+    "category": "Burgers",
+    "description": "Sweet & spicy fusion burger, a fiery delight in every bite!",
+    "ingredients": [
+      "Beef patty",
+      "Sriracha mayo",
+      "Pineapple",
+      "Caramelized onions",
+      "Cheddar cheese",
+      "Brioche bun"
+    ],
+    "price": 11.99,
+    "calories": 780,
+    "prep_time": "7-9 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Sweet",
+      "Adventurous"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Mustard"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "A juicy beef patty topped with sriracha mayo, pineapple, caramelized onions, cheddar cheese, all nestled in a brioche bun. Vibrant, appetizing, high resolution."
+  },
+  {
+    "product_id": "FF010",
+    "name": "Cosmic Crunch Burger",
+    "category": "Burgers",
+    "description": "Juicy bison patty, crispy onion rings, smoky BBQ, and cheddar.",
+    "ingredients": [
+      "Bison patty",
+      "Cheddar cheese",
+      "Crispy onion rings",
+      "Smoked BBQ sauce",
+      "Brioche bun",
+      "Lettuce"
+    ],
+    "price": 14.99,
+    "calories": 780,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Savory",
+      "Satisfying",
+      "Adventurous"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Bison"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "A juicy bison burger with crispy onion rings, cheddar cheese, and smoky BBQ sauce, on a brioche bun, with lettuce garnish.  Close-up, mouthwatering, high-resolution."
+  },
+  {
+    "product_id": "FF011",
+    "name": "Cosmic Crunch Pizza",
+    "category": "Pizza",
+    "description": "A cheesy galaxy of flavors, bursting with cosmic delight!",
+    "ingredients": [
+      "mozzarella cheese",
+      "pepperoni",
+      "red onions",
+      "bell peppers",
+      "black olives",
+      "pizza sauce",
+      "rocket"
+    ],
+    "price": 11.99,
+    "calories": 875,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "vegetarian-adaptable"
+    ],
+    "mood_tags": [
+      "fun",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 1,
+    "image_prompt": "A delicious pizza with pepperoni, red onions, bell peppers, black olives, and rocket, against a dark starry background, vibrant colors, appetizing"
+  },
+  {
+    "product_id": "FF012",
+    "name": "Midnight Vesuvio",
+    "category": "Pizza",
+    "description": "Spicy pepperoni, creamy jalape\u00f1o sauce, fiery finish!",
+    "ingredients": [
+      "Pepperoni",
+      "Jalape\u00f1o",
+      "Mozzarella",
+      "Tomato Sauce",
+      "Spicy Jalape\u00f1o Cream Sauce"
+    ],
+    "price": 14.99,
+    "calories": 875,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "High-Protein",
+      "Spicy"
+    ],
+    "mood_tags": [
+      "Adventurous",
+      "Spicy"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A delicious pizza with spicy pepperoni, jalape\u00f1os, and a creamy jalape\u00f1o sauce.  Flame effect in the background.  Close-up shot."
+  },
+  {
+    "product_id": "FF013",
+    "name": "Mediterranean Sunset Pizza",
+    "category": "Pizza",
+    "description": "Sun-dried tomatoes, Kalamata olives, feta, and oregano on a crispy crust.",
+    "ingredients": [
+      "Wheat flour dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Sun-dried tomatoes",
+      "Kalamata olives",
+      "Feta cheese",
+      "Oregano",
+      "Olive oil",
+      "Garlic"
+    ],
+    "price": 10.99,
+    "calories": 750,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Vegetarian"
+    ],
+    "mood_tags": [
+      "Relaxing",
+      "Mediterranean"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "A delicious gourmet pizza with sun-dried tomatoes, Kalamata olives, feta cheese, and oregano, on a rustic wooden board, bright Mediterranean setting"
+  },
+  {
+    "product_id": "FF014",
+    "name": "Midnight Bloom Pizza",
+    "category": "Pizza",
+    "description": "Sun-dried tomato pesto base, creamy mozzarella, and a burst of fresh basil.",
+    "ingredients": [
+      "Sun-dried tomato pesto",
+      "Mozzarella cheese",
+      "Fresh basil",
+      "Roma tomatoes",
+      "Garlic"
+    ],
+    "price": 10.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Vegetarian"
+    ],
+    "mood_tags": [
+      "Romantic",
+      "Relaxing"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "A gourmet pizza with a vibrant sun-dried tomato pesto base, creamy mozzarella, fresh basil, and ripe Roma tomatoes, lit with warm, romantic lighting"
+  },
+  {
+    "product_id": "FF015",
+    "name": "Midnight Bloom Pizza",
+    "category": "Pizza",
+    "description": "Fig jam, prosciutto, arugula, balsamic glaze \u2013 a sweet and savory delight.",
+    "ingredients": [
+      "Fig Jam",
+      "Prosciutto",
+      "Arugula",
+      "Mozzarella Cheese",
+      "Balsamic Glaze",
+      "Pizza Dough"
+    ],
+    "price": 14.99,
+    "calories": 750,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "Gourmet",
+      "Vegetarian-adaptable"
+    ],
+    "mood_tags": [
+      "Romantic",
+      "Sophisticated",
+      "Date Night"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "A gourmet pizza with fig jam, prosciutto, arugula, and balsamic glaze, artfully arranged on a rustic wooden board, warm lighting"
+  },
+  {
+    "product_id": "FF016",
+    "name": "Sunset Symphony Pizza",
+    "category": "Pizza",
+    "description": "A vibrant pizza with sweet and savory flavors, a taste of paradise.",
+    "ingredients": [
+      "Sun-dried tomatoes",
+      "Roasted red peppers",
+      "Basil pesto",
+      "Mozzarella cheese",
+      "Prosciutto",
+      "Fig jam"
+    ],
+    "price": 15.99,
+    "calories": 850,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "Vegetarian (adaptable)",
+      "Gluten-free crust available"
+    ],
+    "mood_tags": [
+      "Romantic",
+      "Relaxing",
+      "Sophisticated"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten (unless GF crust selected)"
+    ],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "A gourmet pizza with sun-dried tomatoes, roasted red peppers, prosciutto, fig jam, and basil pesto, on a rustic wooden board, warm lighting, vibrant colors"
+  },
+  {
+    "product_id": "FF017",
+    "name": "Inferno Inferno Pizza",
+    "category": "Pizza",
+    "description": "Spicy pepperoni, jalape\u00f1os, fiery ghost pepper sauce \u2013 a tastebud explosion!",
+    "ingredients": [
+      "Pepperoni",
+      "Jalape\u00f1os",
+      "Mozzarella Cheese",
+      "Ghost Pepper Sauce",
+      "Tomato Sauce",
+      "Pizza Dough"
+    ],
+    "price": 14.99,
+    "calories": 875,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "Gluten-Free Crust Option Available"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Adventurous",
+      "Bold"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Pepper"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "A gourmet pizza with spicy pepperoni, jalape\u00f1os, and fiery red ghost pepper sauce, with melted mozzarella cheese, on a rustic wooden board"
+  },
+  {
+    "product_id": "FF018",
+    "name": "Cosmic Crunch Pizza",
+    "category": "Pizza",
+    "description": "A cheesy, meaty adventure among the stars! Savory delight.",
+    "ingredients": [
+      "Pepperoni",
+      "Sausage",
+      "Bacon",
+      "Mozzarella Cheese",
+      "Provolone Cheese",
+      "Tomato Sauce",
+      "Cosmic Dust seasoning"
+    ],
+    "price": 14.99,
+    "calories": 1250,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Meat Lovers",
+      "Cheese"
+    ],
+    "mood_tags": [
+      "Adventurous",
+      "Hearty",
+      "Satisfying"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "A delicious pizza with pepperoni, sausage, and bacon, topped with melted mozzarella and provolone cheese, on a dark background with stars and a cosmic dust effect."
+  },
+  {
+    "product_id": "FF019",
+    "name": "The Vesuvio Volcano",
+    "category": "Pizza",
+    "description": "Fiery pepperoni, spicy jalape\u00f1os, and a molten mozzarella explosion!",
+    "ingredients": [
+      "Pepperoni",
+      "Jalape\u00f1os",
+      "Mozzarella Cheese",
+      "Tomato Sauce",
+      "Oregano"
+    ],
+    "price": 10.99,
+    "calories": 780,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free Crust Option Available"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Adventurous",
+      "Bold"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A delicious pizza with overflowing pepperoni and jalape\u00f1os, molten cheese, and a rustic background.  Vibrant and appetizing."
+  },
+  {
+    "product_id": "FF020",
+    "name": "Starlight Symphony Pizza",
+    "category": "Pizza",
+    "description": "A celestial blend of flavors, bursting with gourmet goodness.",
+    "ingredients": [
+      "Artisan crust",
+      "Truffle infused cream cheese",
+      "Prosciutto",
+      "Fig jam",
+      "Arugula",
+      "Gorgonzola"
+    ],
+    "price": 15.99,
+    "calories": 780,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "Gourmet",
+      "Vegetarian-adaptable"
+    ],
+    "mood_tags": [
+      "Romantic",
+      "Sophisticated",
+      "Elevated"
+    ],
+    "allergens": [
+      "Dairy",
+      "Nuts"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "A gourmet pizza with prosciutto, fig jam, arugula, and gorgonzola on a rustic artisan crust, lit dramatically, close-up shot"
+  },
+  {
+    "product_id": "FF021",
+    "name": "Crunchy Comet Wings",
+    "category": "Fried",
+    "description": "Juicy, crispy wings tossed in a fiery comet sauce. Out of this world!",
+    "ingredients": [
+      "Chicken wings",
+      "Comet sauce (soy sauce, chili garlic sauce, honey)",
+      "All-purpose flour",
+      "Vegetable oil"
+    ],
+    "price": 8.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Adventurous",
+      "Game Night"
+    ],
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Close-up shot of crispy, glazed chicken wings, glistening with a vibrant red-orange sauce, scattered on a dark wooden board"
+  },
+  {
+    "product_id": "FF022",
+    "name": "Crunchy Comet Wings",
+    "category": "Fried",
+    "description": "Juicy, crispy wings tossed in a fiery comet glaze. Out of this world!",
+    "ingredients": [
+      "Chicken wings",
+      "Comet Glaze (soy sauce, honey, chili garlic sauce, ginger)",
+      "All-purpose flour",
+      "Vegetable oil"
+    ],
+    "price": 9.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Adventurous",
+      "Game Night"
+    ],
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 7,
+    "image_prompt": "Close-up shot of crispy, glazed chicken wings glistening, scattered on a rustic wooden board, with a fiery orange-reddish glaze dripping down"
+  },
+  {
+    "product_id": "FF023",
+    "name": "Crunchy Inferno Wings",
+    "category": "Fried",
+    "description": "Fiery, crispy wings tossed in a smoky, sweet chili glaze.",
+    "ingredients": [
+      "Chicken wings",
+      "Spicy chili glaze",
+      "Garlic powder",
+      "Paprika",
+      "Brown sugar"
+    ],
+    "price": 9.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Game Night"
+    ],
+    "allergens": [
+      "Soy",
+      "Wheat"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 7,
+    "image_prompt": "Close-up shot of crispy fried chicken wings, glistening with a vibrant red-orange chili glaze, garnished with sesame seeds and green onions.  Dark background, high contrast."
+  },
+  {
+    "product_id": "FF024",
+    "name": "Crunchy Galaxy Wings",
+    "category": "Fried",
+    "description": "Crispy, juicy wings, cosmically seasoned, a flavor explosion!",
+    "ingredients": [
+      "Chicken wings",
+      "Galaxy seasoning blend",
+      "Breadcrumbs",
+      "Vegetable oil"
+    ],
+    "price": 9.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Happy Hour",
+      "Game Night",
+      "Party"
+    ],
+    "allergens": [
+      "Soy",
+      "Wheat"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Close-up shot of crispy fried chicken wings, scattered with a vibrant, multicolored spice blend, on a rustic wooden board"
+  },
+  {
+    "product_id": "FF025",
+    "name": "Crunchy Carolina Comet",
+    "category": "Fried",
+    "description": "Juicy, crispy chicken tenders with a zesty Carolina BBQ glaze.",
+    "ingredients": [
+      "Chicken breast tenders",
+      "Carolina BBQ sauce",
+      "Breadcrumbs",
+      "Seasoning blend",
+      "Vegetable oil"
+    ],
+    "price": 7.99,
+    "calories": 650,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free option available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Comfort food",
+      "Game day",
+      "Casual"
+    ],
+    "allergens": [
+      "Soy",
+      "Wheat (optional)"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Close-up of three crispy Carolina Comet chicken tenders, glistening with Carolina BBQ sauce, on a rustic wooden board."
+  },
+  {
+    "product_id": "FF026",
+    "name": "Crunchy Jalape\u00f1o Popper Wings",
+    "category": "Fried",
+    "description": "Crispy wings stuffed with creamy jalape\u00f1o popper filling, a fiery delight!",
+    "ingredients": [
+      "Chicken wings",
+      "Jalape\u00f1o peppers",
+      "Cream cheese",
+      "Cheddar cheese",
+      "Breadcrumbs",
+      "Seasoning blend"
+    ],
+    "price": 8.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Game-Night"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten (Breadcrumbs may contain)"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Close-up shot of crispy fried chicken wings stuffed with a creamy jalape\u00f1o popper filling, drizzled with a spicy sauce, on a rustic wooden board."
+  },
+  {
+    "product_id": "FF027",
+    "name": "Crunchy Colonel's Kiss",
+    "category": "Fried",
+    "description": "Juicy chicken tender, crispy breading, zesty sauce; pure bliss!",
+    "ingredients": [
+      "Chicken breast",
+      "Breading (flour, spices)",
+      "Colonel's Kiss Sauce (mayo, spices)",
+      "Vegetable oil"
+    ],
+    "price": 6.99,
+    "calories": 480,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Comfort Food",
+      "Satisfying"
+    ],
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "A close-up shot of a golden-brown fried chicken tender glistening with a tangy sauce, on a rustic wooden board"
+  },
+  {
+    "product_id": "FF028",
+    "name": "Crunchy Colonel's Kiss",
+    "category": "Fried",
+    "description": "Juicy chicken tenders, crispy breading, zesty sauce \u2013 pure bliss!",
+    "ingredients": [
+      "Chicken breast",
+      "Breading (flour, spices)",
+      "Colonel's Kiss Sauce (mayo, sriracha, honey)",
+      "Vegetable oil"
+    ],
+    "price": 7.99,
+    "calories": 550,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Comfort Food",
+      "Satisfying"
+    ],
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Close-up shot of three crispy fried chicken tenders, glistening with Colonel's Kiss sauce, on a rustic wooden board."
+  },
+  {
+    "product_id": "FF029",
+    "name": "Crunchy Galaxy Wings",
+    "category": "Fried",
+    "description": "Crispy, juicy wings tossed in a cosmic blend of sweet & spicy glaze.",
+    "ingredients": [
+      "Chicken wings",
+      "Cosmic Glaze (soy sauce, honey, chili, garlic)",
+      "All-purpose flour",
+      "Vegetable oil"
+    ],
+    "price": 9.99,
+    "calories": 650,
+    "prep_time": "10-12 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Savory",
+      "Game Night"
+    ],
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 7,
+    "image_prompt": "Close-up shot of crispy fried chicken wings glazed in a vibrant red and orange sauce, with a sprinkle of sesame seeds, on a dark background."
+  },
+  {
+    "product_id": "FF030",
+    "name": "Crunchy Colonel's Kiss",
+    "category": "Fried",
+    "description": "Juicy, crispy chicken tenders with a sweet & spicy kick.",
+    "ingredients": [
+      "Chicken breast",
+      "Breadcrumbs",
+      "Seasoning blend",
+      "Spicy honey glaze"
+    ],
+    "price": 7.99,
+    "calories": 650,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Comfort Food",
+      "Spicy"
+    ],
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Close-up shot of three crispy, golden-brown chicken tenders glazed with a sweet and spicy honey sauce, garnished with sesame seeds."
+  },
+  {
+    "product_id": "FF031",
+    "name": "Sunset Sriracha Shrimp Taco",
+    "category": "Tacos",
+    "description": "Spicy shrimp, mango salsa, and creamy avocado in a warm tortilla.",
+    "ingredients": [
+      "Shrimp",
+      "Mango Salsa",
+      "Avocado",
+      "Sriracha Mayo",
+      "Flour Tortilla",
+      "Lime"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "Seafood"
+    ],
+    "mood_tags": [
+      "Summer Vibes",
+      "Spicy",
+      "Fresh"
+    ],
+    "allergens": [
+      "Shellfish",
+      "Dairy (optional)"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A vibrant taco with succulent grilled shrimp, vibrant mango salsa, creamy avocado, and a drizzle of sriracha mayo, on a rustic wooden background."
+  },
+  {
+    "product_id": "FF032",
+    "name": "Sunset Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Spicy chipotle chicken, mango salsa, and creamy avocado in a warm tortilla.",
+    "ingredients": [
+      "Chipotle Chicken",
+      "Mango Salsa",
+      "Avocado",
+      "Flour Tortilla",
+      "Lettuce",
+      "Lime Crema"
+    ],
+    "price": 9.99,
+    "calories": 550,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Vibrant",
+      "Flavorful",
+      "Satisfying"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "A vibrant, colorful wrap filled with chipotle chicken, mango salsa, avocado, and lettuce, garnished with lime crema.  Warm tortilla, sunny background."
+  },
+  {
+    "product_id": "FF033",
+    "name": "Fiesta Sunset Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken, mango salsa, avocado crema in a warm tortilla.",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Avocado Crema",
+      "Flour Tortilla",
+      "Lettuce",
+      "Red Onion"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Summery",
+      "Vibrant",
+      "Refreshing"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "A vibrant wrap filled with grilled chicken, mango salsa, and avocado crema, garnished with cilantro and lime, set against a sunset background."
+  },
+  {
+    "product_id": "FF034",
+    "name": "Sunset Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken, mango salsa, chipotle mayo in a warm tortilla.",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Chipotle Mayo",
+      "Flour Tortilla",
+      "Lettuce",
+      "Red Onion"
+    ],
+    "price": 9.99,
+    "calories": 480,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Vibrant",
+      "Fresh",
+      "Summery"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "A vibrant sunset-colored wrap overflowing with grilled chicken, mango salsa, and a drizzle of chipotle mayo. Warm tortilla, fresh lettuce, and red onion visible."
+  },
+  {
+    "product_id": "FF035",
+    "name": "Spicy Mango Tango Taco",
+    "category": "Tacos",
+    "description": "Sweet mango salsa, fiery chipotle chicken, vibrant slaw \u2013 a fiesta in your mouth!",
+    "ingredients": [
+      "Chipotle Chicken",
+      "Mango Salsa",
+      "Shredded Cabbage",
+      "Cilantro Lime Dressing",
+      "Corn Tortillas"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Vibrant",
+      "Fun"
+    ],
+    "allergens": [
+      "Dairy",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "A delicious taco with vibrant mango salsa, shredded cabbage, chipotle chicken, and cilantro lime dressing, close-up shot"
+  },
+  {
+    "product_id": "FF036",
+    "name": "Dragonfruit Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Sweet & spicy dragonfruit salsa, grilled chicken, cilantro-lime crema. A taste of paradise!",
+    "ingredients": [
+      "Grilled Chicken",
+      "Dragonfruit Salsa",
+      "Cilantro-Lime Crema",
+      "Flour Tortilla",
+      "Red Onion",
+      "Lettuce"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Vibrant",
+      "Tropical",
+      "Adventurous"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "A vibrant close-up of a flour tortilla wrap filled with grilled chicken, bright pink dragonfruit salsa, and a drizzle of creamy cilantro-lime sauce, garnished with fresh cilantro and red onion. Tropical background."
+  },
+  {
+    "product_id": "FF037",
+    "name": "Mango Habanero Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Sweet mango salsa, spicy habanero chicken, vibrant slaw in a warm tortilla.",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Habanero Peppers",
+      "Shredded Cabbage",
+      "Cilantro Lime Dressing",
+      "Flour Tortilla"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Spicy",
+      "Fun",
+      "Summery"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy (Optional)"
+    ],
+    "popularity_score": 75,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 6,
+    "image_prompt": "A vibrant photo of a warm flour tortilla wrap filled with grilled chicken, vibrant orange mango salsa, shredded green cabbage, and a drizzle of cilantro lime dressing.  The background should be subtly blurred, focusing on the wrap's fresh ingredients."
+  },
+  {
+    "product_id": "FF038",
+    "name": "Sonoran Sunset Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken, mango salsa, chipotle aioli in a warm flour tortilla.",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Chipotle Aioli",
+      "Flour Tortilla",
+      "Lettuce",
+      "Red Onion"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Fresh",
+      "Vibrant",
+      "Satisfying"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "A delicious wrap with grilled chicken, vibrant mango salsa, and a drizzle of chipotle aioli, set against a sunset background."
+  },
+  {
+    "product_id": "FF039",
+    "name": "Sunset Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken, mango salsa, creamy avocado, a fiesta in every bite!",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Avocado",
+      "Tortilla",
+      "Lettuce",
+      "Lime Dressing"
+    ],
+    "price": 9.99,
+    "calories": 450,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Vibrant",
+      "Refreshing",
+      "Summery"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy (Optional)"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "A vibrant wrap filled with grilled chicken, mango salsa, avocado, and lettuce, on a rustic wooden surface with a lime wedge."
+  },
+  {
+    "product_id": "FF040",
+    "name": "Sunset Fiesta Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken, mango salsa, avocado crema in a warm tortilla.",
+    "ingredients": [
+      "Grilled Chicken",
+      "Mango Salsa",
+      "Avocado Crema",
+      "Flour Tortilla",
+      "Lettuce",
+      "Red Onion"
+    ],
+    "price": 9.99,
+    "calories": 480,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "Gluten-Free Option Available",
+      "High Protein"
+    ],
+    "mood_tags": [
+      "Vibrant",
+      "Refreshing",
+      "Summery"
+    ],
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Soy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "A vibrant sunset-colored wrap filled with grilled chicken, mango salsa, and avocado crema, garnished with fresh cilantro."
+  }
+]
