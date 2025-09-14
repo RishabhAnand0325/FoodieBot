@@ -1,9 +1,4 @@
-# generate_data.py
-
- # "Sides & Appetizers (fries, onion rings, etc.)", "Beverages (sodas, shakes, specialty drinks)",
-    # "Desserts (ice cream, cookies, pastries)", "Salads & Healthy Options",
-    # "Breakfast Items (all-day breakfast)", "Limited Time Specials"
-    
+# generate_data.py   
 import os
 import json
 import time
@@ -17,7 +12,9 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 PRODUCT_CATEGORIES = [
     "Burgers (classic, fusion, vegetarian)", "Pizza (traditional, gourmet, personal)",
     "Fried Chicken (wings, tenders, sandwiches)", "Tacos & Wraps (mexican, fusion, healthy)",
-   
+    "Sides & Appetizers (fries, onion rings, etc.)", "Beverages (sodas, shakes, specialty drinks)",
+    "Desserts (ice cream, cookies, pastries)", "Salads & Healthy Options",
+    "Breakfast Items (all-day breakfast)", "Limited Time Specials"   
 ]
 
 def generate_products():
@@ -80,4 +77,5 @@ def generate_products():
     print(f"\nSuccessfully generated {len(all_products)} products and saved to {output_path}")
 
 if __name__ == "__main__":
+
     generate_products()
