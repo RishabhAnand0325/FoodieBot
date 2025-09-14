@@ -43,13 +43,13 @@ Follow these steps to get FoodieBot running on your local machine.
 * Python 3.9+
 * A Google Gemini API Key
 
-**2. Clone the Repository:**
+** 2. Clone the Repository:**
 ```bash
 git clone <https://github.com/RishabhAnand0325/FoodieBot.git>
 cd FoodieBot
 ```
 
-**3. Project Structure:
+** 3. Project Structure:**
 ```
 /FoodieBot
 |
@@ -68,41 +68,41 @@ cd FoodieBot
 |-- README.md               # This file
 ```
 
-**4. Install Dependencies:
+**n4. Install Dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-**5. Configure API Key:
+** 5. Configure API Key:**
 Create a new file named .env in the root of the project directory and add your API key
 ```
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
 ```
 
-**6.Generate Product Data:
+** 6.Generate Product Data:**
 Run the data generation script. This will make 100 calls to the LLM API and may take a few minutes.
 ```bash
 python generate_data.py
 ```
 This will create a products.json file inside the /data directory
 
-**7. Set Up the Database:
+** 7. Set Up the Database:**
 Run the database setup script to create and populate foodiebot.db.
 ```bash
 python database_setup.py
 ```
 
-##How to Run the Application ▶️
+## How to Run the Application ▶️
 
 You need to run the backend and frontend in two separate terminals
 
-**1. Start the Backend API (Terminal 1):
+** 1. Start the Backend API (Terminal 1):**
 ```bash
 flask --app app run --port 5001
 ```
 Keep this terminal running
 
-**2. Start the Frontend UI (Terminal 2):
+** 2. Start the Frontend UI (Terminal 2):**
 ```bash
 streamlit run ui.py
 ```
