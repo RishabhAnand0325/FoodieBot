@@ -20,10 +20,10 @@ The application operates with a decoupled frontend and backend architecture:
 |   User Interface         |      |   Backend API         |      |    Database & AI       |
 |   (Streamlit)            | <--> |   (Flask)             | <--> |    (SQLite & LLM)      |
 +--------------------------+      +-----------------------+      +------------------------+
-        |                                   |                              |
-    - Renders chat UI & dashboard           - Handles /chat & /analytics endpoints - Stores 100 products
-    - Sends user input to backend           - Processes logic                - Logs conversations
-    - Displays bot responses                - Queries database               - LLM for NLU & generation
+|                                   |                              |
+- Renders chat UI & dashboard           - Handles /chat & /analytics endpoints - Stores 100 products
+- Sends user input to backend           - Processes logic                - Logs conversations
+- Displays bot responses                - Queries database               - LLM for NLU & generation
 
 
 ## Tech Stack 🛠️
@@ -44,5 +44,5 @@ Follow these steps to get FoodieBot running on your local machine.
 
 **2. Clone the Repository:**
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/RishabhAnand0325/FoodieBot.git>
 cd FoodieBot
