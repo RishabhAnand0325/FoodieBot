@@ -15,7 +15,7 @@ The entire system is built with a separate backend API (Flask) and a user-friend
 ## System Architecture ⚙️
 
 The application operates with a decoupled frontend and backend architecture:
-
+```
 +--------------------------+      +-----------------------+      +------------------------+
 |   User Interface         |      |   Backend API         |      |    Database & AI       |
 |   (Streamlit)            | <--> |   (Flask)             | <--> |    (SQLite & LLM)      |
@@ -24,7 +24,7 @@ The application operates with a decoupled frontend and backend architecture:
 - Renders chat UI & dashboard           - Handles /chat & /analytics endpoints - Stores 100 products
 - Sends user input to backend           - Processes logic                - Logs conversations
 - Displays bot responses                - Queries database               - LLM for NLU & generation
-
+```
 
 ## Tech Stack 🛠️
 
